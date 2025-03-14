@@ -75,6 +75,8 @@ ChartDB is currently in Public Beta. Star and watch this repository to get notif
 
 Use the [cloud version](https://app.chartdb.io?ref=github_readme_2) or deploy locally:
 
+This is a paqu.io test.
+
 ### How To Use
 
 ```bash
